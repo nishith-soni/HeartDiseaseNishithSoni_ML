@@ -9,7 +9,7 @@ import joblib
 def main():
     html_temp = """
     <div style="background-color:lightblue;padding:16px">
-    <h2 style="color:red";text-align:center>Heart Diseases Prediction Using ML</h2>
+    <h2 style="color:red";text-align:center>Cancer Diseases Prediction Using ML</h2>
     </div>
     """
     st.markdown(html_temp,unsafe_allow_html=True)
